@@ -272,7 +272,7 @@ export const portfolioData = {
         {
             id: '2',
             date: '2022/07 – 2022/11',
-            title: 'Frontend Trainee',
+            title: 'Frontend ',
             organization: 'AppWorks School',
             description: 'Completed intensive frontend engineering program with ~4% acceptance rate, building comprehensive development capabilities from zero foundation within 6 months.',
         },
@@ -781,7 +781,7 @@ export const portfolioData = {
             topicTags: ['user-experience', 'social-care', 'work-life'],
 
             role: 'UX Researcher & Designer',
-            year: '2023',
+            year: '2025',
             duration: '2 months',
 
             oneLiner: {
@@ -1048,8 +1048,8 @@ export const portfolioData = {
             location: '新北市淡水區 河岸廣場',
             team: ['莊雅淇', '陳欣敏'],
             instructor: '何俊宏 老師',
-            year: '2019-2020',
-            duration: '1 學期',
+            year: '2020',
+            duration: '半學期',
 
             oneLiner: {
                 zh: '打破傳統接待中心封閉嚴肅的印象，創造與在地文化連結的開放空間',
@@ -1119,93 +1119,93 @@ export const portfolioData = {
         // ----------------------------------------------------------
         // 05. 層層・破繭 - 身心障礙福利服務中心 (TSID 佳作)
         // ----------------------------------------------------------
-        {
-            id: 'breaking-cocoon',
-            order: 6,
-            type: 'spatial',
-            categories: ['spatial-design'],
-            // featured: false,
+        // {
+        //     id: 'breaking-cocoon',
+        //     order: 6,
+        //     type: 'spatial',
+        //     categories: ['spatial-design'],
+        //     // featured: false,
 
-            title: {
-                zh: '層層・破繭',
-                en: 'Breaking Cocoon',
-                subtitle: '身心障礙福利服務中心 Disability Welfare Service Center'
-            },
-            titleObj: {
-                zh: '層層・破繭',
-                en: 'Breaking Cocoon',
-                subtitle: '身心障礙福利服務中心 Disability Welfare Service Center'
-            },
+        //     title: {
+        //         zh: '層層・破繭',
+        //         en: 'Breaking Cocoon',
+        //         subtitle: '身心障礙福利服務中心 Disability Welfare Service Center'
+        //     },
+        //     titleObj: {
+        //         zh: '層層・破繭',
+        //         en: 'Breaking Cocoon',
+        //         subtitle: '身心障礙福利服務中心 Disability Welfare Service Center'
+        //     },
 
-            tags: ['#輔具中心', '#身心障礙', '#無障礙設計', '#服務空間', '#自然隱喻轉譯', '#社會關懷導向'],
-            topicTags: ['social-care', 'user-experience'],
-            awards: ['2020 TSID 學生競圖 佳作'],
+        //     tags: ['#輔具中心', '#身心障礙', '#無障礙設計', '#服務空間', '#自然隱喻轉譯', '#社會關懷導向'],
+        //     topicTags: ['social-care', 'user-experience'],
+        //     awards: ['2020 TSID 學生競圖 佳作'],
 
-            location: '台中身心障礙福利服務中心',
-            team: ['莊雅淇', '邱宜庭'],
-            instructor: '吳金鳳 老師',
-            year: '2019-2020',
-            duration: '1 學期',
+        //     location: '台中身心障礙福利服務中心',
+        //     team: ['莊雅淇', '邱宜庭'],
+        //     instructor: '吳金鳳 老師',
+        //     year: '2019-2020',
+        //     duration: '1 學期',
 
-            oneLiner: {
-                zh: '以「繭」為意象，打造讓身障者重生蛻變的輔具服務空間',
-                en: 'Using "cocoon" as imagery, creating an assistive device service space for rebirth and transformation'
-            },
+        //     oneLiner: {
+        //         zh: '以「繭」為意象，打造讓身障者重生蛻變的輔具服務空間',
+        //         en: 'Using "cocoon" as imagery, creating an assistive device service space for rebirth and transformation'
+        //     },
 
-            concept: {
-                metaphor: {
-                    zh: '輔具中心是一個可以提供身障者租借輔具及諮詢身障等相關問題的地方，身障者也透過輔具得以重新生活。這個過程就好像是蠶寶寶要變成飛蛾，需要先化成繭，才能達成蛻變，而輔具中心就好像是繭一樣，是一個讓人重生的地方。',
-                    en: 'The assistive device center helps people with disabilities rent equipment and consult on related issues. Like a cocoon transforming a caterpillar into a moth, this center is a place of rebirth and transformation.'
-                },
-                goal: {
-                    zh: '我們除了在造型美感上讓使用者有破繭重生的感受，最重要的是，希望透過空間的規劃，讓身障者可以真正找尋到適合自己的輔具，而真正蛻變成一隻美麗的蝴蝶。',
-                    en: 'Beyond creating a cocoon-like aesthetic, we prioritize spatial planning that helps users find suitable assistive devices, enabling their transformation into beautiful butterflies.'
-                }
-            },
+        //     concept: {
+        //         metaphor: {
+        //             zh: '輔具中心是一個可以提供身障者租借輔具及諮詢身障等相關問題的地方，身障者也透過輔具得以重新生活。這個過程就好像是蠶寶寶要變成飛蛾，需要先化成繭，才能達成蛻變，而輔具中心就好像是繭一樣，是一個讓人重生的地方。',
+        //             en: 'The assistive device center helps people with disabilities rent equipment and consult on related issues. Like a cocoon transforming a caterpillar into a moth, this center is a place of rebirth and transformation.'
+        //         },
+        //         goal: {
+        //             zh: '我們除了在造型美感上讓使用者有破繭重生的感受，最重要的是，希望透過空間的規劃，讓身障者可以真正找尋到適合自己的輔具，而真正蛻變成一隻美麗的蝴蝶。',
+        //             en: 'Beyond creating a cocoon-like aesthetic, we prioritize spatial planning that helps users find suitable assistive devices, enabling their transformation into beautiful butterflies.'
+        //         }
+        //     },
 
-            designStrategy: {
-                spatialConcept: {
-                    zh: '利用鐵絲網包覆的曲面造型，象徵繭的意象，同時創造出流動、開放的空間感。讓使用者在空間中自然流動，逐步探索各類輔具。',
-                    en: 'Wire mesh curved surfaces symbolize the cocoon, creating fluid, open spaces where users naturally flow through, gradually exploring various assistive devices.'
-                },
-                inclusiveDesign: {
-                    zh: '空間設計考量輪椅使用者的動線、視線高度、轉彎半徑等需求，同時設置坡道、無障礙廁所、觸覺引導等無障礙設施。',
-                    en: 'Spatial design considers wheelchair users\' circulation paths, eye-level heights, turning radii, with ramps, accessible restrooms, and tactile guidance.'
-                },
-                programZoning: [
-                    '櫃台', '輪椅展示區', '聽力展示區', '聽力評估區', '儲藏室',
-                    '居家生活輔具區', '技能訓練輔具區', '休閒輔具區', '溝通資訊輔具區',
-                    '個人照顧與保護輔具區', '情境體驗區', '親社小鋪', '天使藝廊',
-                    '諮詢室', '辦公室', '會議室', '按摩中心', '廁所'
-                ],
-                materials: ['鐵絲網', '混凝土', '磁磚', '木紋磚', '霧面玻璃', '透明玻璃']
-            },
+        //     designStrategy: {
+        //         spatialConcept: {
+        //             zh: '利用鐵絲網包覆的曲面造型，象徵繭的意象，同時創造出流動、開放的空間感。讓使用者在空間中自然流動，逐步探索各類輔具。',
+        //             en: 'Wire mesh curved surfaces symbolize the cocoon, creating fluid, open spaces where users naturally flow through, gradually exploring various assistive devices.'
+        //         },
+        //         inclusiveDesign: {
+        //             zh: '空間設計考量輪椅使用者的動線、視線高度、轉彎半徑等需求，同時設置坡道、無障礙廁所、觸覺引導等無障礙設施。',
+        //             en: 'Spatial design considers wheelchair users\' circulation paths, eye-level heights, turning radii, with ramps, accessible restrooms, and tactile guidance.'
+        //         },
+        //         programZoning: [
+        //             '櫃台', '輪椅展示區', '聽力展示區', '聽力評估區', '儲藏室',
+        //             '居家生活輔具區', '技能訓練輔具區', '休閒輔具區', '溝通資訊輔具區',
+        //             '個人照顧與保護輔具區', '情境體驗區', '親社小鋪', '天使藝廊',
+        //             '諮詢室', '辦公室', '會議室', '按摩中心', '廁所'
+        //         ],
+        //         materials: ['鐵絲網', '混凝土', '磁磚', '木紋磚', '霧面玻璃', '透明玻璃']
+        //     },
 
-            skills: ['SketchUp', 'V-Ray', 'Photoshop', 'AutoCAD', 'Illustrator'],
+        //     skills: ['SketchUp', 'V-Ray', 'Photoshop', 'AutoCAD', 'Illustrator'],
 
-            designValue: {
-                forISS: {
-                    zh: '展現對社會議題的關注與共融設計能力，理解特殊需求使用者的空間體驗',
-                    en: 'Demonstrates attention to social issues and inclusive design capabilities, understanding spatial experience for users with special needs'
-                },
-                skills: ['Inclusive Design', 'Service Space Design', 'Social Design']
-            },
+        //     designValue: {
+        //         forISS: {
+        //             zh: '展現對社會議題的關注與共融設計能力，理解特殊需求使用者的空間體驗',
+        //             en: 'Demonstrates attention to social issues and inclusive design capabilities, understanding spatial experience for users with special needs'
+        //         },
+        //         skills: ['Inclusive Design', 'Service Space Design', 'Social Design']
+        //     },
 
-            image: '/projects/breaking-cocoon/hero.jpg',
-            imagesObj: {
-                hero: '/projects/breaking-cocoon/hero.jpg',
-                thumbnail: '/projects/breaking-cocoon/thumbnail.jpg',
-                plan: '/projects/breaking-cocoon/plan.jpg',
-                sections: ['/projects/breaking-cocoon/section-aa.jpg', '/projects/breaking-cocoon/section-bb.jpg'],
-                renders: [
-                    '/projects/breaking-cocoon/render-entrance.jpg',
-                    '/projects/breaking-cocoon/render-display.jpg',
-                    '/projects/breaking-cocoon/render-training.jpg',
-                    '/projects/breaking-cocoon/render-lobby.jpg',
-                    '/projects/breaking-cocoon/render-gallery.jpg'
-                ]
-            }
-        },
+        //     image: '/projects/breaking-cocoon/hero.jpg',
+        //     imagesObj: {
+        //         hero: '/projects/breaking-cocoon/hero.jpg',
+        //         thumbnail: '/projects/breaking-cocoon/thumbnail.jpg',
+        //         plan: '/projects/breaking-cocoon/plan.jpg',
+        //         sections: ['/projects/breaking-cocoon/section-aa.jpg', '/projects/breaking-cocoon/section-bb.jpg'],
+        //         renders: [
+        //             '/projects/breaking-cocoon/render-entrance.jpg',
+        //             '/projects/breaking-cocoon/render-display.jpg',
+        //             '/projects/breaking-cocoon/render-training.jpg',
+        //             '/projects/breaking-cocoon/render-lobby.jpg',
+        //             '/projects/breaking-cocoon/render-gallery.jpg'
+        //         ]
+        //     }
+        // },
 
         // ----------------------------------------------------------
         // 06. 與夢的距離 - 共同工作空間
@@ -1235,7 +1235,7 @@ export const portfolioData = {
             team: ['莊雅淇', '黃淑瑜'],
             instructor: '吳燦中 老師',
             year: '2019',
-            duration: '1 學期',
+            duration: '半學期',
 
             oneLiner: {
                 zh: '以紙飛機為意象，打造承載創業夢想的輕盈工作空間',
@@ -1325,9 +1325,9 @@ export const portfolioData = {
 
             location: '台北市內湖區科學園區 鴻海大樓 8-9F',
             team: ['莊雅淇', '彭奕瑄'],
-            instructor: '陽鵠少 老師',
+            instructor: '陽蹾少 老師',
             year: '2019',
-            duration: '1 學期',
+            duration: '半學期',
 
             oneLiner: {
                 zh: '以藤本壯介「城市如森林」的哲學，設計融合自然與都市的辦公空間',
@@ -1393,69 +1393,69 @@ export const portfolioData = {
         // ----------------------------------------------------------
         // 08. 食物色彩學 - 選修課程專題
         // ----------------------------------------------------------
-        {
-            id: 'food-color',
-            order: 9,
-            type: 'spatial',
-            categories: ['spatial-design'],
-            // featured: false,
+        // {
+        //     id: 'food-color',
+        //     order: 9,
+        //     type: 'spatial',
+        //     categories: ['spatial-design'],
+        //     // featured: false,
 
-            title: {
-                zh: '食物色彩學',
-                en: 'Food Color Studies',
-                subtitle: '大娛樂家 The Greatest Showman'
-            },
-            titleObj: {
-                zh: '食物色彩學',
-                en: 'Food Color Studies',
-                subtitle: '大娛樂家 The Greatest Showman'
-            },
+        //     title: {
+        //         zh: '食物色彩學',
+        //         en: 'Food Color Studies',
+        //         subtitle: '大娛樂家 The Greatest Showman'
+        //     },
+        //     titleObj: {
+        //         zh: '食物色彩學',
+        //         en: 'Food Color Studies',
+        //         subtitle: '大娛樂家 The Greatest Showman'
+        //     },
 
-            tags: ['#選修課', '#色彩學', '#陳設', '#食物造型'],
-            topicTags: [],
+        //     tags: ['#選修課', '#色彩學', '#陳設', '#食物造型'],
+        //     topicTags: [],
 
-            team: ['莊雅淇', '歐鳳里', '彭奕瑄', '楊恩琦', '羅子淮', '陳冠瑋'],
-            year: '2019',
-            duration: '1 學期',
+        //     team: ['莊雅淇', '歐鳳里', '彭奕瑄', '楊恩琦', '羅子淮', '陳冠瑋'],
+        //     year: '2019',
+        //     duration: '1 學期',
 
-            oneLiner: {
-                zh: '將電影《大娛樂家》的視覺元素轉化為食物色彩與陳設設計',
-                en: 'Transforming visual elements from "The Greatest Showman" into food color and display design'
-            },
+        //     oneLiner: {
+        //         zh: '將電影《大娛樂家》的視覺元素轉化為食物色彩與陳設設計',
+        //         en: 'Transforming visual elements from "The Greatest Showman" into food color and display design'
+        //     },
 
-            concept: {
-                approach: {
-                    zh: '在設計課之餘，我也積極學習系上各種選修課，也盡全力做每一次的作業，除了培養了我對於色彩與陳設的敏銳度，也打開了我對照明設計的視野，更培養了我與小組合作與溝通的能力。',
-                    en: 'Beyond studio courses, I actively pursued electives, approaching each assignment with full effort. This cultivated my sensitivity to color and display, opened perspectives on lighting design, and developed teamwork skills.'
-                },
-                project: {
-                    zh: '分析電影大娛樂家裡的元素轉化成食物色彩與陳設。其電影氛圍金碧輝煌，且主題緊扣著馬戲團，吊鋼索、跳火圈等高低起伏的動作在電影裡多次呈現，角色服裝皆豔華麗，將這些元素轉化為我們食物的陳設與色彩。',
-                    en: 'We analyzed The Greatest Showman\'s elements—its golden atmosphere, circus theme with trapeze and fire rings, and elaborate costumes—transforming them into food display design and color schemes.'
-                }
-            },
+        //     concept: {
+        //         approach: {
+        //             zh: '在設計課之餘，我也積極學習系上各種選修課，也盡全力做每一次的作業，除了培養了我對於色彩與陳設的敏銳度，也打開了我對照明設計的視野，更培養了我與小組合作與溝通的能力。',
+        //             en: 'Beyond studio courses, I actively pursued electives, approaching each assignment with full effort. This cultivated my sensitivity to color and display, opened perspectives on lighting design, and developed teamwork skills.'
+        //         },
+        //         project: {
+        //             zh: '分析電影大娛樂家裡的元素轉化成食物色彩與陳設。其電影氛圍金碧輝煌，且主題緊扣著馬戲團，吊鋼索、跳火圈等高低起伏的動作在電影裡多次呈現，角色服裝皆豔華麗，將這些元素轉化為我們食物的陳設與色彩。',
+        //             en: 'We analyzed The Greatest Showman\'s elements—its golden atmosphere, circus theme with trapeze and fire rings, and elaborate costumes—transforming them into food display design and color schemes.'
+        //         }
+        //     },
 
-            skills: ['Photography', 'Food Styling', 'Color Theory', 'Team Collaboration'],
+        //     skills: ['Photography', 'Food Styling', 'Color Theory', 'Team Collaboration'],
 
-            designValue: {
-                forISS: {
-                    zh: '展現跨媒材的設計轉譯能力與團隊協作能力',
-                    en: 'Demonstrates cross-media design translation and team collaboration abilities'
-                },
-                skills: ['Color Theory', 'Visual Design', 'Team Collaboration']
-            },
+        //     designValue: {
+        //         forISS: {
+        //             zh: '展現跨媒材的設計轉譯能力與團隊協作能力',
+        //             en: 'Demonstrates cross-media design translation and team collaboration abilities'
+        //         },
+        //         skills: ['Color Theory', 'Visual Design', 'Team Collaboration']
+        //     },
 
-            image: '/projects/food-color/hero.jpg',
-            imagesObj: {
-                hero: '/projects/food-color/hero.jpg',
-                thumbnail: '/projects/food-color/thumbnail.jpg',
-                gallery: [
-                    '/projects/food-color/photo-1.jpg',
-                    '/projects/food-color/photo-2.jpg',
-                    '/projects/food-color/photo-3.jpg',
-                    '/projects/food-color/team.jpg'
-                ]
-            }
-        }
+        //     image: '/projects/food-color/hero.jpg',
+        //     imagesObj: {
+        //         hero: '/projects/food-color/hero.jpg',
+        //         thumbnail: '/projects/food-color/thumbnail.jpg',
+        //         gallery: [
+        //             '/projects/food-color/photo-1.jpg',
+        //             '/projects/food-color/photo-2.jpg',
+        //             '/projects/food-color/photo-3.jpg',
+        //             '/projects/food-color/team.jpg'
+        //         ]
+        //     }
+        // }
     ],
     careerGoals: {
         shortTerm: "Become a UX Design Engineer integrating spatial and digital domains, serving as a bridge between design and engineering teams.",
